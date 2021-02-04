@@ -13,7 +13,7 @@
 
 ---
 
-Contact: fernandespedrobc@gmail.com
+Contact: fernandesbarreto@protonmail.com
 
 Social media:
 [![Instagram Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/pedro.fbc/?hl=pt)

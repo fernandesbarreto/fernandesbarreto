@@ -5,7 +5,9 @@
   <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fernandesbarreto&theme=dracula&show_icons=true">
   <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesbarreto&layout=compact&theme=dracula&langs_count=16">
 </div>
+  
 ---
+  
 **Currently using**   
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">

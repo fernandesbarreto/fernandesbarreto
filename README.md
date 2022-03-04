@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 ---
 
-Contact: fernandesbarreto@protonmail.com
+Contact: pfbc2@cin.ufpe.br  fernandespedrobc@gmail.com
 
 Social media:
 [![Instagram Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/pedro.fbc/?hl=pt)

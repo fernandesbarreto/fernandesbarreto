@@ -15,6 +15,9 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Assembly-6e5345?style=flat&logo=asm&logoColor=#6e5345">
+  
+  
 
 **Planning on learning**   
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">

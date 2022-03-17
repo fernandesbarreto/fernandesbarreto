@@ -28,7 +28,7 @@
 Contact: pfbc2@cin.ufpe.br
 
 Social media:
-[![Linkedin Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.linkedin.com/in/pedro-fernandes-barreto-costa-aa9573228/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat&logo=linkedin&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.linkedin.com/in/pedro-fernandes-barreto-costa-aa9573228/)
 
 [![Instagram Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/pedro.fbc/?hl=pt)
 

@@ -25,9 +25,11 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 ---
 
-Contact: pfbc2@cin.ufpe.br  fernandespedrobc@gmail.com
+Contact: pfbc2@cin.ufpe.br
 
 Social media:
+[![Linkedin Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.linkedin.com/in/pedro-fernandes-barreto-costa-aa9573228/)
+
 [![Instagram Badge](https://img.shields.io/badge/-@pedro.fbc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://www.instagram.com/pedro.fbc/?hl=pt)
 
 <!--

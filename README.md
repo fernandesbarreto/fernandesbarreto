@@ -1,10 +1,5 @@
 # Hello, world! :space_invader:
 ### Feel free to stick around for a while :)
-<div>
-<div align = "center">
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=fernandesbarreto&theme=dracula&show_icons=true">
-  <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesbarreto&layout=compact&theme=dracula&langs_count=16">
-</div>
   
 ---
   

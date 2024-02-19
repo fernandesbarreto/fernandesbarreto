@@ -2,9 +2,10 @@
 ### Feel free to stick around for a while :)
 
 <div>
-<div align = "left">
+<div>
   <img height="180em" width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesbarreto&layout=compact&theme=dark&langs_count=16&exclude_repo=Dog-classifier&hide=jupyter%20notebook,assembly">
 </div>
+
 ---
 
 Contact: pfbc2@cin.ufpe.br
